@@ -163,7 +163,7 @@ def log(update, context):
     sendLogFile(context.bot, update.message)
 
 help_string = '''
-<b><a href='https://github.com/SN-Abdullah-Al-Noman/Atrocious_Mirror'>Atrocious-Mirror</a></b> - The Ultimate Telegram MIrror-Leech Bot to Upload Your File & Link in Google Drive & Telegram
+<b><a href='https://github.com/YaMraaJ-debug/zh-run-modify'>𝐌𝐢𝐫𝐫𝐨𝐫∆𝐜𝐥𝐨𝐮𝐝</a></b> - The Ultimate Telegram MIrror-Leech Bot to Upload Your File & Link in Google Drive & Telegram
 Choose a help category:
 '''
 
