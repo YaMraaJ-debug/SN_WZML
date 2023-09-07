@@ -218,7 +218,7 @@ def get_progress_bar_string(status):
 
 def get_readable_message():
     with download_dict_lock:
-        msg = f""
+        msg = f"<a href="https://t.me/YaMraaJ_xD"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝙔𝙖𝙈𝙧𝙖𝙖𝙅_𝙭𝘿</b></a>"
         if STATUS_LIMIT := config_dict['STATUS_LIMIT']:
             tasks = len(download_dict)
             global pages
